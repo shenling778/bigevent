@@ -56,7 +56,7 @@ $(function() {
                     layer.msg("登录成功")
                     localStorage.setItem("token", res.token)
                     console.log(res.token);
-                    location.href = '/index.html'
+                    location.href = '/index1.html'
 
                 } else {
                     return layer.msg("dddd" + res.message)

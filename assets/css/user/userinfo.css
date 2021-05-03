@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F2F3F5;
+    /* background-color: gray; */
+    padding: 20PX;
+}
+
+form {
+    width: 500px;
+}
